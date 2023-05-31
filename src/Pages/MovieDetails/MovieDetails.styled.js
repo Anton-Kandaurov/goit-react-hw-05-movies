@@ -2,9 +2,9 @@ import styled from 'styled-components';
 
 export const MovieItemWrapper = styled.div`
   display: flex;
-  gap: 20px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  gap: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   border-bottom: 2px solid #aaaaaa;
 `;
 
